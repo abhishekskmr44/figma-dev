@@ -1,0 +1,87 @@
+
+
+.container{
+    border: 2px solid red;
+    height: 900px;
+    width: 1440px;
+    display: flex;
+
+}
+
+
+.containerLeft{
+    border: 2px solid black;
+    height: 100%;
+    width: 731px;
+    background: #ECBC76;
+}
+
+
+.signup{
+    height: 83px;
+width: 208px;
+left: 861px;
+top: 162px;
+border-radius: nullpx;
+font-family: Poppins;
+font-size: 55px;
+font-weight: 500;
+line-height: 83px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+
+.containerRight{
+    border: 2px solid black;
+    height: 100%;
+    width: 709px;
+}
+
+
+
+.images{
+    height: 392px ;
+    width: 358px;
+    margin-top: 292px;
+    margin-left: 165px;
+    margin-right: 174px;
+}
+
+
+.mainForm{
+    border: 1px solid black;
+    position: absolute;
+    width: 556px;
+    height: 744px;
+    left: 816px;
+    top: 79px;
+}
+
+
+.welcome{
+position: absolute;
+height: 30px;
+width: 186px;
+margin-left: 46px;
+margin-top: 58px;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+}
+
+
+.signupText{
+    position: absolute;
+width:208px;
+height: 83px;
+margin-top: 45px;
+font-weight: 500;
+font-size: 55px;
+line-height: 82px
+
+
+}
